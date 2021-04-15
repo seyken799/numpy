@@ -1,19 +1,19 @@
 import numpy as np
 
 #zad 1
-# a = 4*np.arange(20)
-# print(a)
+# x = 4*np.arange(20)
+# print(x)
 
 #zad 2
-# a = np.arange(10, dtype='float')
-# print(a)
-# b = a.astype('int32')
-# print(b)
+# x = np.arange(10, dtype='float')
+# print(x)
+# y = x.astype('int32')
+# print(y)
 
 #zad 3
 # def zad3(n : int):
-#     a = 2**np.mgrid[1:n+1, 1:n+1]
-#     return a
+#     x = 2**np.mgrid[1:n+1, 1:n+1]
+#     return x
 # print(zad3(5))
 
-#zad4
+
